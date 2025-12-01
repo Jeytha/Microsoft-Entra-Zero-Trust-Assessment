@@ -224,7 +224,7 @@ This empty tenant provides the **ideal demonstration** for how Zero Trust toolin
 
 ```
                    ┌─────────────────────────────────────────┐
-                   │              IDENTITIES                  │
+                   │              IDENTITIES                 │
                    │  • MFA / Strong Auth                    │
                    │  • Conditional Access                   │
                    │  • Least-Privilege Access               │
@@ -254,7 +254,7 @@ This empty tenant provides the **ideal demonstration** for how Zero Trust toolin
                                  │
                                  ▼
 ┌──────────────────────────────────────────────────────────────────────────┐
-│                               DATA                                      │
+│                               DATA                                       │
 │  • Labels & Classification                                               │
 │  • DLP, Encryption, Sensitivity Labels                                   │
 │  • Govern access using Identity + Device Context                         │
