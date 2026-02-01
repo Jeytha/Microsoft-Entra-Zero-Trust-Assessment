@@ -271,10 +271,9 @@ This empty tenant provides the **ideal demonstration** for how Zero Trust toolin
 
 ---
 
-# ⭐ Author
+## ❤️ Author
 
-**Jeytha Sahana**  
-Cloud Security • Zero Trust • Microsoft Entra • Azure Security • ICS/OT Cybersecurity
+Created by **Jeytha Sahana** 
 
 ---
 
