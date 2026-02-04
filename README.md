@@ -86,10 +86,10 @@ The tool is **read-only** and **makes no configuration changes**.
 
 To run the assessment, the environment requires:
 
-### ✔ PowerShell 7.x  
+###  PowerShell 7.x  
 Windows PowerShell 5.1 is not supported.
 
-### ✔ Modules Installed
+###  Modules Installed
 ```powershell
 Install-Module Microsoft.Graph -Scope CurrentUser
 Install-Module Az -Scope CurrentUser
